@@ -1,0 +1,2 @@
+# permalink-warrior
+ラブライブ！公式サイトのニュースページへの古いリンクをパーマリンクに変換するChrome Extension
